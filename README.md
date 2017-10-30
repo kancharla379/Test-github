@@ -1,2 +1,2 @@
 # Test-github
-this is for tutuorial purpose
+this is for tutorial purpose
